@@ -1,9 +1,4 @@
-:root{
-  --color-primary-blue: #157BFB;
-  --text-white: #FFFFFF;
-  --highlight-button-background:#2766D5;
-  --button-secondary-hover-background: #EDF4FE;
-}
+@import "../variables.scss";
 
 .base{
     border-radius: 12px;
